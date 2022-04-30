@@ -1,0 +1,157 @@
+Aatrox:the Darkin Blade/fi
+Ahri:the Nine-Tailed Fox/mg
+Akali:the Rogue Assassin/as
+Akshan:the Rogue Sentinel/mk
+Alistar:the Minotaur/tk
+Amumu:the Sad Mummy/tk
+Anivia:the Cryophoenix/mg
+Annie:the Dark Child/mg
+Aphelios:the Weapon of the Faithful/mk
+Ashe:the Frost Archer/mk
+Aurelion Sol:the Star Forger/mg
+Azir:the Emperor of the Sands/sp
+Bard:the Wandering Caretaker/ct
+Blitzcrank:the Great Steam Golem/ct
+Brand:the Burning Vengeance/mg
+Braum:the Heart of the Freljord/tk
+Caitlyn:the Sheriff of Piltover/mk
+Camille:the Steel Shadow/fi
+Cassiopeia:the Serpent's Embrace/mg
+Cho'Gath:the Terror of the Void/sp
+Corki:the Daring Bombardier/mk
+Darius:the Hand of Noxus/fi
+Diana:Scorn of the Moon/as
+Dr Mundo:the Madman of Zaun/fi
+Draven:the Glorious Executioner/mk
+Ekko:the Boy Who Shattered Time/as
+Elise:the Spider Queen/fi
+Evelynn:Agony's Embrace/as
+Ezreal:the Prodigal Explorer/mk
+Fiddlesticks:the Ancient Fear/sp
+Fiora:the Grand Duelist/fi
+Fizz:the Tidal Trickster/as
+Galio:the Colossus/tk
+Gangplank:the Saltwater Scourge/sp
+Garen:the Might of Demacia/fi
+Gnar:the Missing Link/sp
+Gragas:the Rabble Rouser/tk
+Graves:the Outlaw/sp
+Gwen:the Hallowed Seamstress/fi
+Hecarim:the Shadow of War/fi
+Heimerdinger:the Revered Inventor/sp
+Illaoi:the Kraken Priestess/fi
+Irelia:the Blade Dancer/fi
+Ivern:the Green Father/ct
+Janna:the Storm's Fury/ct
+Jarvan IV:the Exemplar of Demacia/fi
+Jax:Grandmaster at Arms/fi
+Jayce:the Defender of Tomorrow/mg
+Jhin:the Virtuoso/mk
+Jinx:the Loose Cannon/mk
+Kai'Sa:Daughter of the Void/mk
+Kalista:the Spear of Vengeance/mk
+Karma:the Enlightened One/mg
+Karthus:the Deathsinger/mg
+Kassadin:the Void Walker/as
+Katarina:the Sinister Blade/as
+Kayle:the Righteous/sp
+Kayn:the Shadow Reaper/fi
+Kennen:the Heart of the Tempest/as
+Kha'Zix:the Voidreaver/as
+Kindred:the Eternal Hunters/mk
+Kled:the Cantankerous Cavalier/fi
+Kog'Maw:the Mouth of the Abyss/mk
+LeBlanc:the Deceiver/mg
+Lee Sin:the Blind Monk/fi
+Leona:the Radiant Dawn/tk
+Lillia:the Bashful Bloom/fi
+Lissandra:the Ice Witch/mg
+Lucian:the Purifier/mk
+Lulu:the Fae Sorceress/ct
+Lux:the Lady of Luminosity/mg
+Malphite:Shard of the Monolith/tk
+Malzahar:the Prophet of the Void/mg
+Maokai:the Twisted Treant/tk
+Master Yi:the Wuju Bladesman/fi
+Miss Fortune:the Bounty Hunter/mk
+Mordekaiser:the Iron Revenant/fi
+Morgana:the Fallen/ct
+Nami:the Tidecaller/ct
+Nasus:the Curator of the Sands/fi
+Nautilus:the Titan of the Depths/tk
+Neeko:the Curious Chameleon/mg
+Nidalee:the Bestial Huntress/sp
+Nocturne:the Eternal Nightmare/as
+Nunu and Willump:the Body and his Yeti/tk
+Olaf:the Beserker/fi
+Orianna:the Lady of Clockwork/mg
+Ornn:the Fire Beneath the Mountain/tk
+Pantheon:the Unbreakable Spear/fi
+Poppy:Keeper of the Hammer/tk
+Pyke:the Bloodharbour Ripper/as
+Qiyana:Empress of the Elements/as
+Quinn:Demacia's Wings/sp
+Rakan:the Charmer/ct
+Rammus:the Armordillo/tk
+Rek'Sai:the Void Burrower/fi
+Rell:the Iron Maiden/tk
+Renekton:the Butcher of the Sands/fi
+Rengar:the Pridestalker/as
+Riven:the Exile/fi
+Rumble:the Mechanised Menace/mg
+Ryze:the Rune Mage/mg
+Samira:the Desert Rose/mk
+Sejuani:Fury of the North/tk
+Senna:the Redeemer/mk
+Seraphine:the Starry-Eyed Songstress/mg
+Sett:the Boss/fi
+Shaco:the Demon Jester/as
+Shen:the Eye of Twilight/tk
+Shyvana:the Half-Dragon/fi
+Singed:the Mad Chemist/sp
+Sion:the Undead Juggernaut/tk
+Sivir:the Battle Mistress/mk
+Skarner:the Crystal Vanguard/fi
+Sona:Maven of the Strings/ct
+Soraka:the Starchild/ct
+Swain:the Noxian Grand General/mg
+Sylas:the Unshackled/fi
+Syndra:the Dark Sovereign/mg
+Tahm Kench:the River King/tk
+Taliyah:the Stoneweaver/mg
+Talon:the Blade's Shadow/as
+Taric:the Shield of Valoran/ct
+Teemo:the Swift Scout/sp
+Thresh:the Chain Warden/ct
+Tristana:the Yordle Gunner/mk
+Trundle:the Troll King/fi
+Tryndamere:the Barbarian King/fi
+Twisted Fate:the Card Master/mg
+Twitch:the Plague Rat/mk
+Udyr:the Spirit Walker/tk
+Urgot:the Dreadnought/tk
+Varus:the Arrow of Retribution/mk
+Vayne:the Night Hunter/mk
+Veigar:the Tiny Master of Evil/mg
+Vel'Koz:the Eye of the Void/mg
+Vex:the Gloomist/mg
+Vi:the Plitover Enforcer/fi
+Viego:the Ruined King/fi
+Viktor:the Machine Herald/mg
+Vladimir:the Crimson Reaper/mg
+Volibear:the Relentless Storm/tk
+Warwick:the Uncaged Wrath of Zaun/fi
+Wukong:the Monkey King/fi
+Xayah:the Rebel/mk
+Xerath:the Magus Ascendant/mg
+Xin Zhao:the Seneschal of Demacia/fi
+Yasuo:the Unforgiven/fi
+Yone:the Unforgotten/fi
+Yorick:Shepherd of Souls/fi
+Yuumi:the Magical Cat/ct
+Zac:the Secret Weapon/tk
+Zed:the Master of Shadows/as
+Ziggs:the Hexplosives Expert/mg
+Zilean:the Chronokeeper/sp
+Zoe:the Aspect of Twilight/mg
+Zyra:Rise of the Thorns/ct
